@@ -5,7 +5,6 @@ variable "aws_region" {
 
 variable "static_website_address" {
   type    = string
-  default = "360-tour-demo.rybrow.com"
 }
 
 variable "static_website_index_document" {
