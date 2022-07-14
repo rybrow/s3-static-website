@@ -4,7 +4,7 @@ variable "aws_region" {
 }
 
 variable "static_website_address" {
-  type    = string
+  type = string
 }
 
 variable "static_website_index_document" {
